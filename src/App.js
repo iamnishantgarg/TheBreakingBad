@@ -3,7 +3,7 @@ import React from "react";
 import "./App.css";
 
 function App() {
-  return <div className="App">hy</div>;
+  return <div className="container">hy</div>;
 }
 
 export default App;
